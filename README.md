@@ -8,6 +8,7 @@ Bu repo [**Kodluyoruz Front-End Eğitimi**](https://academy.patika.dev/paths/bas
 Öncelikle projeyi clonelayın.
 
 ```
+
 https://github.com/FuatBerke/kodluyoruz-odevler.git
 
 ```
