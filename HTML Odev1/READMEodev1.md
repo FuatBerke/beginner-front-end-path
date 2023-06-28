@@ -1,8 +1,7 @@
 ## HTML Odev 1
 
 **Bu ödevde yapılması istenilenler şu şekilde;**
-
-
+---
 > Siteyi açtığımızda "Adınız ve Soyadınızı" `başlık` şeklinde göstermeniz gerekiyor.
 
 > Ad-Soyadın altında `alt başlık` olarak "Hakkımda" yazmalıdır.
