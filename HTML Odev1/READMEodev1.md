@@ -1,4 +1,4 @@
-# HTML Odev 1
+# Bu Proje [Kodluyoruz](https://kodluyoruz.org) Front-End Patikası HTML Dersinin 1. Odevidir
 
  Bu ödevde yapılması istenilenler şu şekilde;
 
