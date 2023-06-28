@@ -1,4 +1,4 @@
-## HTML Odev 1
+# HTML Odev 1
 
  Bu ödevde yapılması istenilenler şu şekilde;
 
