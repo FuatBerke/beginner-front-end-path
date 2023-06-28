@@ -22,7 +22,6 @@ Linux için:
 ```
 cd kodluyoruz-odevler
 code .
-
 ```
 
 ## License
