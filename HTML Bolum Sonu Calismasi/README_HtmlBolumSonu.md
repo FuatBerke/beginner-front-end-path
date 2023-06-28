@@ -6,4 +6,4 @@ Yaptığımız projede HTML dersleri boyunca öğrendiklerimizi kullanarak;
 
 olmak üzere, 3 sayfadan oluşan bir site yaptık ve bu sitedeki sayfalar arasındaki etkileşimleri ayarladık.
 
-![](img/htmlbolumsonu.png)
+![](img/htmlbolumsonu_wCodes.png)
