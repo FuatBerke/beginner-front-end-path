@@ -9,3 +9,5 @@ Bu ödevde yapılması istenilenler şu şekilde;
 - Bunları sıralarken film ve dizilerin en az bir tanesine [**IMDb**](https://www.imdb.com/) linki, kitapların bir tanesine de  [**Goodreads**](https://www.goodreads.com/)  linkini yazınız.
 
 - Kurduğunuz yapılarda `block, inline` gibi elementler kullanmaya çalışın.
+
+![](htmlodev2.png)

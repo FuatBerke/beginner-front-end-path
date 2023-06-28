@@ -13,3 +13,4 @@ Bu ödevde yapılması istenilenler şu şekilde;
 
 - Yazdığınız kodları açıklayan `yorum satırları` eklemeyi unutmayın.
 
+![](htmlodev1.png)
