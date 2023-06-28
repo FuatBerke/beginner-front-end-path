@@ -3,11 +3,11 @@
 Bu ödevde yapılması istenilenler şu şekilde;
 
 
-- Siteyi açtığımızda **"Adınız ve Soyadınızı"** `başlık` şeklinde göstermeniz gerekiyor.
+- Siteyi açtığımızda "Adınız ve Soyadınızı" `başlık` şeklinde göstermeniz gerekiyor.
 
-- Ad-Soyadın altında `alt başlık` olarak **"Hakkımda"** yazmalıdır.
+- Ad-Soyadın altında `alt başlık` olarak "Hakkımda" yazmalıdır.
 
-- Altına `paragraf` içerisinde **"Neler yaptığınızı ve nelerden hoşlandığınızı"** yazabilirsiniz.
+- Altına `paragraf` içerisinde "Neler yaptığınızı ve nelerden hoşlandığınızı" yazabilirsiniz.
 
 - Web sitenizi kaydederken dosya adı olarak `index.html` seçmeniz gerekmektedir.(**Bu repoya atarken `ödev ismi` olarak değiştirdim**)
 
