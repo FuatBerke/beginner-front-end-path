@@ -1,6 +1,6 @@
 # Kodluyoruz **Front-End** Ödevleri
 
-Bu repo **[Kodluyoruz](https://kodluyoruz.org) Front-End Eğitimi** kapsamında yaptığım ödevleri içermektedir.
+## Bu repo **[Kodluyoruz](https://kodluyoruz.org) Front-End Eğitimi** kapsamında yaptığım ödevleri içermektedir.
 
 
 
