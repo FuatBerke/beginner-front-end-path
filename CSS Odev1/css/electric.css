@@ -1,0 +1,87 @@
+/****************** Layout ******************/
+
+img {
+    height: fit-content;
+    
+}
+
+
+/**************** Table-tr-th for navigation bar **************************/
+table{
+    font-family: Poppins;
+    text-transform: uppercase;
+    font-size: 18px;
+   
+}
+
+tr{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+th {
+    padding-top: 20px;
+    padding-inline: 100px;
+    padding-bottom: 20px;
+}
+
+
+#gibsonlogo {
+    padding-top: 20px;
+}
+
+/**************** Category Photo **************************/
+#alt-foto {
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}
+
+
+/************** Guitar Name *******************************/
+.guitar-table {
+    text-transform: capitalize;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/******************* Each Guitar Place **********************/
+.guitar-box {
+    align-content:center;
+   padding-inline:130px;
+    font-weight: 600;
+}
+
+
+/******************** Category Box  **************************/
+.chosen-one{
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+    text-underline-offset: 7px;
+    background-color: #070707; 
+    border-radius: 12px;
+}
+
+
+/******************* Guitar Price ****************************/
+span {
+    font-weight: 400;
+}
+
+
+/************************ Link Style ***********************/
+a {
+    color: #070707;
+    text-decoration: none;   
+}
+
+
+/***************** Hover Category Style **********************/
+a:hover{
+    
+text-decoration: underline;
+text-underline-offset: 7px;
+    
+}
