@@ -2,7 +2,7 @@
 
 Bu ödevde CSS hakkında şu ana kadar öğrendiklerimizi kullanarak bir web sitesi yapmamız isteniyor;
 
-Ödev örneğinde kullanılan "Müzik Dükkanım" örneği hoşuma gitti ve ben de bir gitarist olarak [Gibson](https://gibson.com) markasına ait gitarların bulunduğu bir site  yaptım.
+Ödev örneğinde kullanılan "Müzik Dükkanım" örneği hoşuma gitti ve ben de bir gitarist olarak [**Gibson**](https://gibson.com) markasına ait gitarların bulunduğu bir site  yaptım.
 
 Sitede istenilen özellikler ise şunlar;
 
