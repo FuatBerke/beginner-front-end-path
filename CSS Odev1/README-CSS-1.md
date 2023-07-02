@@ -10,6 +10,6 @@ Sitede istenilen özellikler ise şunlar;
 - >Yazacağınız CSS etiketlerini Inline ve Internal yazabilirsiniz. External kullanmak tamamen sizin tercihinizdir.
 - >Kendini tekrar eden yapılar kullanmamaya özen gösteriniz.
 
-![](CSS_Odev_1.png)
+![](readmeimg/CSS_Odev_1.png)
 
-<div align="center"><img src="cssodev2.gif" /></div>
+<div align="center"><img src="readmeimg/cssodev2.gif" /></div>

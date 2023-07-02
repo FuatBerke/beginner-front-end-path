@@ -1,0 +1,29 @@
+body {
+    margin: 0 0;
+}
+
+.container {
+    margin: 50px auto;
+    width: 1000px;
+    
+}
+
+.left-bar{
+    width: 200px;
+    float: left;
+}
+
+.content {
+    width: 800px;
+    float: left;
+}
+
+.card {
+    background-color: rgb(198, 198, 198);
+    width: 20%;
+    padding: 5%;
+    margin-right: 3%;
+    float: left;
+    border-radius: 10px;
+
+}
