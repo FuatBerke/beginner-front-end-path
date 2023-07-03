@@ -1,6 +1,6 @@
 # Bu proje [Kodluyoruz](https://kodluyoruz.org) Front-End Patikası "CSS" Dersinin 3. ve Son Odevidir
 
- Bu ödevde bizden HTML ve CSS yapısı hazır olarak verilen Google sayfasını, [**orijinal halini**](https://web.archive.org/web/20191130234759/https://www.google.com/)  inceleyip detayları işlememiz isteniyor.
+ Bu ödevde bizden HTML ve CSS yapısı verilen Google sayfasını, [**orijinal halini**](https://web.archive.org/web/20191130234759/https://www.google.com/)  inceleyip detayları işlememiz isteniyor.
 
 İstenilen değişiklikler şu şekilde;
 
