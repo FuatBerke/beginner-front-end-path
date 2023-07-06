@@ -1,6 +1,6 @@
-# Bu proje [Kodluyoruz](https://kodluyoruz.org) Front-End Patikası "BootStrap" Dersinin 1. Odevidir
+# Bu proje [Kodluyoruz](https://kodluyoruz.org) Front-End Patikası "Bootstrap" Dersinin 1. Odevidir
 
-Bu ödevde CSS Dersinin ilk ödevinde yapmış olduğumuz "Müzik Dükkanı" projesini BootStrap ile geliştirmemiz isteniyor.
+Bu ödevde CSS Dersinin ilk ödevinde yapmış olduğumuz "Müzik Dükkanı" projesini Bootstrap ile geliştirmemiz isteniyor.
 
 Yapmamız istenilenler şu şekilde;
 
