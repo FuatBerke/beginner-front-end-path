@@ -1,0 +1,26 @@
+.navbar-nav > li {
+    padding-right: 30px;
+    padding-left: 30px;
+    font-weight: 500;
+}
+
+.navbar {
+padding: 10px;
+color: black;
+}
+
+
+
+.nav-item {
+padding-top: 8px;
+}
+
+body {
+    font-family: sf pro;
+    background-color: #E9ECEF;
+}
+
+
+.background-image {
+    opacity: 10%;
+}
