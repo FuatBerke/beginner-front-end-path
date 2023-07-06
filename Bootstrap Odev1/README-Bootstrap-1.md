@@ -18,4 +18,4 @@ Yapmamız istenilenler şu şekilde;
 
 - Hakkımızda (Ben **Gibson Anasayfası** olarak düzenledim) sayfasını da bir card yapısı içine alın.
 
-![](Bootstrap.png)
+![](Bootstrapodev1.png)
