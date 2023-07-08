@@ -2,7 +2,7 @@
 
 Bu ödevde bize bozulmuş şekilde verilen HTML ve CSS dosyalarını düzenleyip bu Instagram sayfasını oluşturmamız gerekiyor.
 
-Projede istenilen değişiklikleri aşağıdaki [görselden](image5.png) ulaşabilirsiniz 
+Projede istenilen değişikliklere aşağıdaki [görselden](image5.png) ulaşabilirsiniz 
 
 ![](bootstrapodev2.png)
 ![](image5.png)
