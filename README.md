@@ -3,6 +3,7 @@
 Bu repo [**Kodluyoruz (Patika) Front-End Eğitimi**](https://academy.patika.dev/paths/baslangic-seviye-frontend-web-development-patikasi) kapsamında yaptığım ödevleri içermektedir.
 
 - Ödevlerin **README** dosyalarında, ödevle ilgili **açıklamalar ve fotoğraflar** bulunmaktadır. 
+
 ![](patika.png)
 
 
