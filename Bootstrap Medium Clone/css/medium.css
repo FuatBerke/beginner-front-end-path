@@ -1,0 +1,44 @@
+body {
+    font-family: sf pro;
+    
+}
+
+.bg-yellow {
+    background-color: #FFC017;
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+
+.header-btn {
+    width: 200px;
+    height: 40px;
+}
+
+.nav-btn {
+    width: 100px;
+    height: 35px;
+}
+
+.pt-serif {
+    font-family: 'PT Serif', serif;
+}
+
+.clr-black {
+    color: rgb(22, 22, 22);
+}
+
+
+.bg-black {
+    color: rgb(22, 22, 22);
+}
+
+.small-font {
+    font-size: small;
+}
+
+.aside-btn {
+    width: 50px;
+}
+
