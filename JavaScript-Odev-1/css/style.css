@@ -1,0 +1,41 @@
+body {
+    font-family: Poppins;
+}
+
+#clock {
+    font-family: hanson;
+    color: #8FFF00;
+    font-size: xxx-large;
+}
+
+.day {
+    -webkit-text-stroke-width: 0.2px;
+  -webkit-text-stroke-color: #8FFF00;
+    color: #91ff0000;
+}
+
+
+.day-hover {
+    color: #8FFF00;
+}
+
+.user-name {
+    font-weight:600;
+}
+
+.greeting-font {
+    font-weight: 300;
+    font-size: medium;
+}
+
+.main-div {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.statement{
+    font-weight: 200;
+    font-size: medium;
+}
