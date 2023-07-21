@@ -2,4 +2,4 @@
 
 Bu projede JavaScript dersinde öğrendiklerimiz ile girişte isminizi isteyip sonra bu ismi karşılama ekranına yerleştirerek o anki saati ve günü gösteren bir ekran yapmamız  isteniyor. *Ödev örneğine [buradan](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/javascript/javascript-temel/odev1/figures/clock.gif) ulaşabilirsiniz*
 
-![](js-odev-2.png)
+![](js-odev-v1.png)
