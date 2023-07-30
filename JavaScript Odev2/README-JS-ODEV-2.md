@@ -8,7 +8,9 @@ Projede istenilen özellikler şu şekilde:
 - Element eklendiğinde ve hata verirken sağ üstte uyarı verdiğini fark etmişsinizdir. Bunu sağlayan Bootstrap Toast bildirimdir. Sayfaya gidip toast nedir nasıl yapılır bunu araştırın ve kodunuza ekleyin. (Ben bu projede TailwindCss kullandım.)
 - Yaptığınız yapıya Local Storage'ı da ekleyip verilerin kaybolmamasını sağlayın.
 
-    Bu projede **"To-Do List"** özelliğini [**Notion**](https://www.notion.so/) gibi bir uygulama arayüzü tasarlayıp onun içinde kurdum. 
+---
+
+Bu projede [**Notion**](https://www.notion.so/) gibi bir uygulama arayüzü tasarlayıp **"To-Do List"** özelliğini onun içinde kurdum. 
 
 *"Projede [FontAwesome](https://fontawesome.com/) ve [TailwindCSS](https://tailwindcss.com/) kullanılmıştır projenin düzgün çalışması için indirdikten sonra bu iki yapıyı da kurmalısınız"*
 
