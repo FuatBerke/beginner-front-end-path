@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: SF Pro Display;
+  background-color: #0b0909f7;
+}
+
+#left-bar {
+  background-color: #0f0d0cb9;
+  height: 100vh;
+}
+
+
+.closeButton:hover {
+  background-color: rgb(255, 72, 72);
+}
