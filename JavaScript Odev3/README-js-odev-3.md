@@ -8,4 +8,4 @@ Bu projede JavaScript dersinde öğrendiklerimiz ile restoran menüsü şeklinde
 - İçeriği istediğiniz gibi değiştirebilirsiniz yalnız değiştirirken kategori isimlerine ekstra dikkat edin.
 - Butonlar da js dosyasından gelecek.
 
-![](javascriptodev3.gif)
+![](asiankitchen.gif)
