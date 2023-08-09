@@ -1,4 +1,4 @@
-# Kodluyoruz **Front-End** Ödevleri
+# Kodluyoruz "Beginner Front-End Web Development Path" Ödevleri
 
 Bu repo [**Kodluyoruz (Patika) Front-End Eğitimi**](https://academy.patika.dev/paths/baslangic-seviye-frontend-web-development-patikasi) kapsamında yaptığım ödevleri içermektedir.
 
